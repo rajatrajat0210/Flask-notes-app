@@ -1,6 +1,8 @@
 # Notes App
 
 A simple and secure web application built with Flask that allows users to create, view, and manage personal notes.
+![Notes App Login-SignUp Page](https://github.com/rajatrajat0210/Flask-notes-app/blob/main/Login-SignUp.png?raw=true)
+![Notes App Page](https://github.com/rajatrajat0210/Flask-notes-app/blob/main/Notes.png?raw=true)
 
 ## Features
 
